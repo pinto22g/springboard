@@ -1,1 +1,2 @@
 # House Prices: Advanced Regression Techniques
+For my capstone project, I used a dataset that can be retrieved from Kaggle under the title House Prices: Advanced Regression Techniques. This dataset has 79 explanatory variables, each variable describes a feature of a residential house in Ames, Iowa. The objective is to find the best algorithm to predict the final price of each home using advanced regression techniques. The best model from the methods I have computed was the gradient boosting regressor. After hyperparameter tuning this model I retrieved an RMSLE of 0.00936. 
