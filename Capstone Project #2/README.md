@@ -1,6 +1,6 @@
 # US Adult Income
 
-The US Adult Census Dataset was retrieved by Barry Becker from the 1994 US Census Database.
+The US Adult Census Dataset was retrieved by Barry Becker from the 1994 US Census Database. The dataset can be retrieved from https://www.kaggle.com/johnolafenwa/us-census-data 
 
 
 Throughout the project, there will be various tasks performed such as: 
